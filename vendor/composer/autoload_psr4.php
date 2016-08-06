@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'TweetMining\\' => array($baseDir . '/src'),
+    'Abraham\\TwitterOAuth\\' => array($vendorDir . '/abraham/twitteroauth/src'),
 );

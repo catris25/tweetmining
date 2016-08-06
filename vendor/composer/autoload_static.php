@@ -11,12 +11,20 @@ class ComposerStaticInitb167abf09f5fa397cc07263057c990b5
         array (
             'TweetMining\\' => 12,
         ),
+        'A' => 
+        array (
+            'Abraham\\TwitterOAuth\\' => 21,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'TweetMining\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'Abraham\\TwitterOAuth\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/abraham/twitteroauth/src',
         ),
     );
 
