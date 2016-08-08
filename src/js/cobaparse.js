@@ -20,7 +20,10 @@ function loadJSON(callback) {
         for(var i = 0; i < 7; i++) {
             data[i] = new Array(2);
             data[i][0] = actual_JSON.statuses[i].id;
-            
+            console.log(typeof data[i][0]);
+            //data[i][0] = Number(data[i][0]);
+            //console.log(typeof data[i][0]);
+
             data[i][1] = actual_JSON.statuses[i].text.replace(/(?:https?|ftp):\/\/[\n\S]+/g, '');
             data[i][1] = data[i][1].replace(/\B@[a-z0-9_-]+/gi, '');
             data[i][1] = data[i][1].replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '');
@@ -34,7 +37,7 @@ function loadJSON(callback) {
              $("#demo").append(data[i][0] + " <br>by " + data[i][1] + "<br><br>");
         }
 
-        var fname = "results.csv";
+        //var fname = "results.csv";
         var csvContent = "";
         data.forEach(function(info, index){
           dataString = info.join(",");
@@ -45,7 +48,7 @@ function loadJSON(callback) {
         // window.open(encodedUri);
 
 
-         download(csvContent, 'csv_file.csv', 'text/csv');
+         //download(csvContent, 'datafix.csv', 'text/csv');
 
      });
 }
