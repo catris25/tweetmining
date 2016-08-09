@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "736332e95e21c4e76fa2a99319c93f93",
-    "content-hash": "37bc8bf62b9b56dc764f50fb1bcc2999",
+    "hash": "9bdeb4edea6e7a4d74dbda7bb9bef31d",
+    "content-hash": "227f2066fbfd0b38110e1c04639fe134",
     "packages": [
         {
             "name": "abraham/twitteroauth",
@@ -60,6 +60,51 @@
                 "twitter"
             ],
             "time": "2016-04-20 23:23:26"
+        },
+        {
+            "name": "nlp-tools/nlp-tools",
+            "version": "0.1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/angeloskath/php-nlp-tools.git",
+                "reference": "677c3d760c7c738de6d436e710d27eba15d00c40"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/angeloskath/php-nlp-tools/zipball/677c3d760c7c738de6d436e710d27eba15d00c40",
+                "reference": "677c3d760c7c738de6d436e710d27eba15d00c40",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.0.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "NlpTools\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "WTFPL"
+            ],
+            "authors": [
+                {
+                    "name": "Angelos Katharopoulos",
+                    "email": "angelos@yourse.gr"
+                }
+            ],
+            "description": "NlpTools is a set of php 5.3+ classes for beginner to semi advanced natural language processing work.",
+            "keywords": [
+                "machine learning",
+                "nlp"
+            ],
+            "time": "2016-07-20 20:10:01"
         },
         {
             "name": "sastrawi/sastrawi",

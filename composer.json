@@ -12,7 +12,8 @@
     "require": {
     	"php": ">=5.3.0",
         "sastrawi/sastrawi": "1.1.0",
-        "abraham/twitteroauth": "^0.6.4"
+        "abraham/twitteroauth": "^0.6.4",
+        "nlp-tools/nlp-tools": "^0.1.2"
     },
     "autoload": {
         "psr-4": {
