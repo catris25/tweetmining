@@ -112,5 +112,52 @@
             "social",
             "twitter"
         ]
+    },
+    {
+        "name": "nlp-tools/nlp-tools",
+        "version": "0.1.2",
+        "version_normalized": "0.1.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/angeloskath/php-nlp-tools.git",
+            "reference": "677c3d760c7c738de6d436e710d27eba15d00c40"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/angeloskath/php-nlp-tools/zipball/677c3d760c7c738de6d436e710d27eba15d00c40",
+            "reference": "677c3d760c7c738de6d436e710d27eba15d00c40",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "time": "2016-07-20 20:10:01",
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "1.0.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "NlpTools\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "WTFPL"
+        ],
+        "authors": [
+            {
+                "name": "Angelos Katharopoulos",
+                "email": "angelos@yourse.gr"
+            }
+        ],
+        "description": "NlpTools is a set of php 5.3+ classes for beginner to semi advanced natural language processing work.",
+        "keywords": [
+            "machine learning",
+            "nlp"
+        ]
     }
 ]

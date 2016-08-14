@@ -36,6 +36,13 @@ class ComposerStaticInitb167abf09f5fa397cc07263057c990b5
                 0 => __DIR__ . '/..' . '/sastrawi/sastrawi/src',
             ),
         ),
+        'N' => 
+        array (
+            'NlpTools\\' => 
+            array (
+                0 => __DIR__ . '/..' . '/nlp-tools/nlp-tools/src',
+            ),
+        ),
     );
 
     public static function getInitializer(ClassLoader $loader)
