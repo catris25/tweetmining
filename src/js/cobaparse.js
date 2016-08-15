@@ -2,7 +2,7 @@ function loadJSON(callback) {
 
     var xobj = new XMLHttpRequest();
         xobj.overrideMimeType("application/json");
-    xobj.open('GET', 'tweets_kecelakaan.json', true); // Replace 'my_data' with the path to your file
+    xobj.open('GET', 'tweets_training_h2.json', true); // Replace 'my_data' with the path to your file
     xobj.onreadystatechange = function () {
           if (xobj.readyState == 4 && xobj.status == "200") {
             // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
@@ -17,7 +17,7 @@ function loadJSON(callback) {
       // Parse JSON string into object
         var actual_JSON = JSON.parse(response);
         var data = new Array(7);
-        for(var i = 0; i < 7; i++) {
+        for(var i = 0; i < 73; i++) {
             data[i] = new Array(2);
             data[i][0] = actual_JSON.statuses[i].id;
             console.log(typeof data[i][0]);
@@ -48,7 +48,7 @@ function loadJSON(callback) {
         // window.open(encodedUri);
 
 
-         //download(csvContent, 'datafix.csv', 'text/csv');
+         download(csvContent, 'datafix_h2.csv', 'text/csv');
 
      });
 }

@@ -6,10 +6,29 @@ namespace Composer\Autoload;
 
 class ComposerStaticInitb167abf09f5fa397cc07263057c990b5
 {
+    public static $files = array (
+        'c964ee0ededf28c96ebd9db5099ef910' => __DIR__ . '/..' . '/guzzlehttp/promises/src/functions_include.php',
+        'a0edc8309cc5e1d60e3047b5df6b7052' => __DIR__ . '/..' . '/guzzlehttp/psr7/src/functions_include.php',
+        '37a3dc5111fe8f707ab4c132ef1dbc62' => __DIR__ . '/..' . '/guzzlehttp/guzzle/src/functions_include.php',
+    );
+
     public static $prefixLengthsPsr4 = array (
         'T' => 
         array (
+            'TwitterStreaming\\Extensions\\' => 28,
+            'TwitterStreaming\\' => 17,
             'TweetMining\\' => 12,
+        ),
+        'P' => 
+        array (
+            'Psr\\Http\\Message\\' => 17,
+        ),
+        'G' => 
+        array (
+            'GuzzleHttp\\Subscriber\\Oauth\\' => 28,
+            'GuzzleHttp\\Psr7\\' => 16,
+            'GuzzleHttp\\Promise\\' => 19,
+            'GuzzleHttp\\' => 11,
         ),
         'A' => 
         array (
@@ -18,9 +37,37 @@ class ComposerStaticInitb167abf09f5fa397cc07263057c990b5
     );
 
     public static $prefixDirsPsr4 = array (
+        'TwitterStreaming\\Extensions\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/rbadillap/twitterstreaming/examples',
+        ),
+        'TwitterStreaming\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/rbadillap/twitterstreaming/src/TwitterStreaming',
+        ),
         'TweetMining\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'Psr\\Http\\Message\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/http-message/src',
+        ),
+        'GuzzleHttp\\Subscriber\\Oauth\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/guzzlehttp/oauth-subscriber/src',
+        ),
+        'GuzzleHttp\\Psr7\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/guzzlehttp/psr7/src',
+        ),
+        'GuzzleHttp\\Promise\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/guzzlehttp/promises/src',
+        ),
+        'GuzzleHttp\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
         ),
         'Abraham\\TwitterOAuth\\' => 
         array (
@@ -45,12 +92,22 @@ class ComposerStaticInitb167abf09f5fa397cc07263057c990b5
         ),
     );
 
+    public static $classMap = array (
+        'OauthPhirehose' => __DIR__ . '/..' . '/fennb/phirehose/lib/OauthPhirehose.php',
+        'Phirehose' => __DIR__ . '/..' . '/fennb/phirehose/lib/Phirehose.php',
+        'PhirehoseConnectLimitExceeded' => __DIR__ . '/..' . '/fennb/phirehose/lib/Phirehose.php',
+        'PhirehoseException' => __DIR__ . '/..' . '/fennb/phirehose/lib/Phirehose.php',
+        'PhirehoseNetworkException' => __DIR__ . '/..' . '/fennb/phirehose/lib/Phirehose.php',
+        'UserstreamPhirehose' => __DIR__ . '/..' . '/fennb/phirehose/lib/UserstreamPhirehose.php',
+    );
+
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
             $loader->prefixLengthsPsr4 = ComposerStaticInitb167abf09f5fa397cc07263057c990b5::$prefixLengthsPsr4;
             $loader->prefixDirsPsr4 = ComposerStaticInitb167abf09f5fa397cc07263057c990b5::$prefixDirsPsr4;
             $loader->prefixesPsr0 = ComposerStaticInitb167abf09f5fa397cc07263057c990b5::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInitb167abf09f5fa397cc07263057c990b5::$classMap;
 
         }, null, ClassLoader::class);
     }

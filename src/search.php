@@ -17,10 +17,8 @@ function search(array $query)
  
 $query = array(
   "q" => "kecelakaan",
-  "count" => 20,
-  "result_type" => "popular",
-
-  //"lang" => "en",
+  "count" => 100,
+  "result_type" => "recent"
 );
 
 
@@ -49,7 +47,7 @@ foreach ($contentsDecoded['statuses'] as $tweet => $value) {
 header('Content-Type: application/json'); 
 $newResults= json_encode($contentsDecoded, JSON_PRETTY_PRINT);
 echo $newResults;
-file_put_contents('tweets_kecelakaan.json', $newResults);
+file_put_contents('tweets_training_h2.json', $newResults);
 
 ?>
 
