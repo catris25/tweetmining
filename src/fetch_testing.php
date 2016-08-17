@@ -6,9 +6,11 @@ define('CONSUMER_SECRET', 'Upomt5fFMSSC1zcVMijOUPd7NdSL4JMURDzDS0RfjUr9iJGaqb');
 define('ACCESS_TOKEN', '100399829-UAGazL2iC23uvFLHio461YwWPeb0Om0rxe44egRY');
 define('ACCESS_TOKEN_SECRET', 'TUapT9Fo2TBhysSlY9EtRu4J1lsVh56FKjE2lrtKsHFns');
 
-$users = array('TMCPoldaMetro', 'tvOneNews', 'detikcom');
+$users = array('TMCPoldaMetro', 'TMCPolresBogor', 'tvOneNews', 'detikcom', 'RepublikaOnline');
 
 $toa = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, ACCESS_TOKEN, ACCESS_TOKEN_SECRET);
+
+echo "Fetching Tweets<br>";
 
 for($u=0; $u<count($users); $u++){
 
@@ -18,7 +20,7 @@ for($u=0; $u<count($users); $u++){
 
   echo "tweets by @".$users[$u]."<br>";
 
-  while($loop<3){
+  while($loop<5){
     $content = $toa->get('statuses/user_timeline', array(
       'count' => 200,
       'exclude_replies' => true,
