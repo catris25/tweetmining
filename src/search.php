@@ -18,12 +18,12 @@ function search(array $query)
  
 $query = array(
   //"q" => " kecelakaan -filter:retweets",
-  "q" => "kecelakaan",
-  "since" => "2016-08-01",
-  "until" => "2016-08-03",
-  "max_id" => "765097458259091456",
+  "q" => " kecelakaan -filter:retweets",
+  "since" => "2016-08-12",
+  "until" => "2016-08-17",
+  // "max_id" => "765097458259091456",
   //"since_id" => "700000000000000000",
-  //"count" => 100,
+  "count" => 100,
   "include_entities" => "false"
 );
 
@@ -53,7 +53,7 @@ foreach ($contentsDecoded['statuses'] as $tweet => $value) {
 header('Content-Type: application/json'); 
 $newResults= json_encode($contentsDecoded, JSON_PRETTY_PRINT);
 echo $newResults;
-file_put_contents('tweets_training_v4.json', $newResults);
+file_put_contents('tweets_training_v5.json', $newResults);
 
 ?>
 

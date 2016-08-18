@@ -40,7 +40,7 @@
 <?php
 
 
-    $add = "Jalan Slamet Riyadi Solo";
+    $add = "Jalan HR Ras Said";
 
     // get latitude, longitude and formatted address
     $data_arr = geocode($add);
@@ -51,6 +51,7 @@
         $latitude = $data_arr[0];
         $longitude = $data_arr[1];
         $formatted_address = $data_arr[2];
+        echo $latitude;
                      
     ?>
  
@@ -117,7 +118,7 @@ function geocode($address){
     $address = urlencode($address);
      
     // google map geocode api url
-    $url = "http://maps.google.com/maps/api/geocode/json?address={$address}";
+    $url = "http://maps.google.com/maps/api/geocode/json?&address={$address}";
  
     // get the json response
     $resp_json = file_get_contents($url);

@@ -34,7 +34,7 @@
             }
             
             // combine unigrams with new ngrams
-            $ngrams = array_merge( $ngrams );
+            $ngrams = array_merge( $unigrams );
             //print_r($ngrams);
             return $ngrams;
             

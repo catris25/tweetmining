@@ -26,18 +26,19 @@
 		//echo $twoDarray[$x][1]."<br>";
 	}
 
+	print_r ($twoDarray);
 	//export again to csv
-	header("Content-Type: text/csv");
-	header("Content-Transfer-Encoding: binary");
-  	header('Content-disposition: attachment;filename=datafixx.csv');
-  	header("Pragma: no-cache");
-  	header("Expires: 0");
-  	$header = array("id","tweet");
-	$fp = fopen("php://output", "w");
-	fputcsv ($fp, $header);
-	foreach($twoDarray as $row){
-        fputcsv($fp, $row);
-    }
-    fclose($fp);
+	// header("Content-Type: text/csv");
+	// header("Content-Transfer-Encoding: binary");
+  	// header('Content-disposition: attachment;filename=datafixx.csv');
+  	// header("Pragma: no-cache");
+  	// header("Expires: 0");
+  	// $header = array("id","tweet");
+	// $fp = fopen("php://output", "w");
+	// fputcsv ($fp, $header);
+	// foreach($twoDarray as $row){
+    //     fputcsv($fp, $row);
+    // }
+    // fclose($fp);
 
 ?>
