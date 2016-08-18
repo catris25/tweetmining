@@ -1,0 +1,13 @@
+{
+    "statuses": [],
+    "search_metadata": {
+        "completed_in": 0.004,
+        "max_id": "765097458259091456",
+        "max_id_str": "765097458259091456",
+        "query": "kecelakaan+since%3A2016-08-01+until%3A2016-08-03",
+        "refresh_url": "?since_id=765097458259091456&q=kecelakaan%20since%3A2016-08-01%20until%3A2016-08-03",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

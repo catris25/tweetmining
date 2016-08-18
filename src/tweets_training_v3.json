@@ -1,0 +1,3915 @@
+{
+    "statuses": [
+        {
+            "created_at": "2016-08-15T04:03:44.000Z",
+            "id": "765036224692097024",
+            "id_str": "765036224692097024",
+            "text": "Kecelakaan BMW Warnai Kepadatan Lalu Lintas Jakarta Pagi Ini: \n          Kecelakaan tunggal mob... https:\/\/t.co\/mseK1Pvh6d #BatikBontang",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "BatikBontang",
+                        "indices": [
+                            123,
+                            136
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/mseK1Pvh6d",
+                        "expanded_url": "http:\/\/bit.ly\/2b54hPI",
+                        "display_url": "bit.ly\/2b54hPI",
+                        "indices": [
+                            99,
+                            122
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2235975174",
+                "id_str": "2235975174",
+                "name": "Borneo Promo",
+                "screen_name": "Borneopromo",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 57,
+                "friends_count": 18,
+                "listed_count": 14,
+                "created_at": "2013-12-08T12:27:30.000Z",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 281311,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000845696610\/5383b880fae6a2d11dc100755a618ab7_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000845696610\/5383b880fae6a2d11dc100755a618ab7_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:03:24.000Z",
+            "id": "765036141221294080",
+            "id_str": "765036141221294080",
+            "text": "Kecelakaan BMW Warnai Kepadatan Lalu Lintas Jakarta Pagi Ini: \n          Kecelakaan tunggal mobil BMW di exit... https:\/\/t.co\/b42bUekL9v",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/b42bUekL9v",
+                        "expanded_url": "http:\/\/bit.ly\/2b53376",
+                        "display_url": "bit.ly\/2b53376",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 124138380,
+                "id_str": "124138380",
+                "name": "Ay Dwi Pratiwi",
+                "screen_name": "Ay_DwiPratiwi",
+                "location": "Indonesia",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 266,
+                "friends_count": 168,
+                "listed_count": 17,
+                "created_at": "2010-03-18T11:19:00.000Z",
+                "favourites_count": 1,
+                "utc_offset": 25200,
+                "time_zone": "Bangkok",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 179888,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/652868821808623616\/NT66Kv85_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/652868821808623616\/NT66Kv85_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/124138380\/1405578143",
+                "profile_link_color": "4F0099",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": true,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:03:15.000Z",
+            "id": "765036101924818949",
+            "id_str": "765036101924818949",
+            "text": "Kecelakaan tunggal mobil BMW di exit Tol Pajak Semanggi sebabkan lalu lintas tersendat.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1217882658,
+                "id_str": "1217882658",
+                "name": "Normand Flowers",
+                "screen_name": "NormandFlowers",
+                "location": "Jakarta | Indonesia",
+                "description": "Hanya kamu",
+                "url": "http:\/\/t.co\/6Gl4Hw9Jrf",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/6Gl4Hw9Jrf",
+                                "expanded_url": "http:\/\/twitter.com",
+                                "display_url": "twitter.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 8,
+                "friends_count": 78,
+                "listed_count": 1,
+                "created_at": "2013-02-25T10:27:13.000Z",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 55507,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3305957625\/a15097355ff03044ac50713e1b759e2e_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3305957625\/a15097355ff03044ac50713e1b759e2e_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:03:08.000Z",
+            "id": "765036076201152512",
+            "id_str": "765036076201152512",
+            "text": "Kecelakaan tunggal mobil BMW di exit Tol Pajak Semanggi sebabkan lalu lintas tersendat.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1088295576,
+                "id_str": "1088295576",
+                "name": "Yilna  Bine",
+                "screen_name": "YilnaBine",
+                "location": "bandung",
+                "description": "Follow me okay",
+                "url": "http:\/\/t.co\/JJKv1sbk",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/JJKv1sbk",
+                                "expanded_url": "http:\/\/putrakomputer.com\/",
+                                "display_url": "putrakomputer.com",
+                                "indices": [
+                                    0,
+                                    20
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7,
+                "friends_count": 141,
+                "listed_count": 1,
+                "created_at": "2013-01-14T07:35:54.000Z",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 57891,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3112687615\/139059aec69b99c174417daa883047f6_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3112687615\/139059aec69b99c174417daa883047f6_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:03:06.000Z",
+            "id": "765036066516537344",
+            "id_str": "765036066516537344",
+            "text": "Kecelakaan tunggal mobil BMW di exit Tol Pajak Semanggi sebabkan lalu lintas tersendat.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1088607440,
+                "id_str": "1088607440",
+                "name": "Dewi nur",
+                "screen_name": "Dewinur28364639",
+                "location": "Riau",
+                "description": "Dewi namaku,, Cantik katanya rupaku :)",
+                "url": "http:\/\/t.co\/QA6bqPgjEV",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/QA6bqPgjEV",
+                                "expanded_url": "http:\/\/Riaudidadaku.com",
+                                "display_url": "Riaudidadaku.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 6,
+                "friends_count": 128,
+                "listed_count": 1,
+                "created_at": "2013-01-14T10:14:22.000Z",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 58932,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3117059022\/a5a2c0bd0002763767517f133dd95cf8_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3117059022\/a5a2c0bd0002763767517f133dd95cf8_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:03:05.000Z",
+            "id": "765036063572189184",
+            "id_str": "765036063572189184",
+            "text": "Kecelakaan tunggal mobil BMW di exit Tol Pajak Semanggi sebabkan lalu lintas tersendat.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1088559962,
+                "id_str": "1088559962",
+                "name": "Reva luna",
+                "screen_name": "Revaluna8",
+                "location": "Riau",
+                "description": "Salam kenal Twitter mania | jangan lupa follow saya ya :)",
+                "url": "http:\/\/t.co\/f52DtKeN",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/f52DtKeN",
+                                "expanded_url": "http:\/\/uhomedesign.com",
+                                "display_url": "uhomedesign.com",
+                                "indices": [
+                                    0,
+                                    20
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4,
+                "friends_count": 130,
+                "listed_count": 2,
+                "created_at": "2013-01-14T09:48:51.000Z",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 58930,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3112702890\/fdb21f9fcaa260de2b4601638cc5b72c_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3112702890\/fdb21f9fcaa260de2b4601638cc5b72c_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:03:03.000Z",
+            "id": "765036054101450752",
+            "id_str": "765036054101450752",
+            "text": "Kecelakaan tunggal mobil BMW di exit Tol Pajak Semanggi sebabkan lalu lintas tersendat.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1088296058,
+                "id_str": "1088296058",
+                "name": "Cinta Indonesia",
+                "screen_name": "CintaIn52772735",
+                "location": "bandung",
+                "description": "Follow me okay",
+                "url": "http:\/\/t.co\/P03AEKPH",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/P03AEKPH",
+                                "expanded_url": "http:\/\/uhomedesign.com",
+                                "display_url": "uhomedesign.com",
+                                "indices": [
+                                    0,
+                                    20
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4,
+                "friends_count": 143,
+                "listed_count": 0,
+                "created_at": "2013-01-14T07:28:43.000Z",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 58929,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3112564571\/6ffe81949e048ecbdef8af9eb4cbd6ab_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3112564571\/6ffe81949e048ecbdef8af9eb4cbd6ab_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:03:03.000Z",
+            "id": "765036052297883648",
+            "id_str": "765036052297883648",
+            "text": "Kecelakaan tunggal mobil BMW di exit Tol Pajak Semanggi sebabkan lalu lintas tersendat.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1088285166,
+                "id_str": "1088285166",
+                "name": "Alya Manis",
+                "screen_name": "AlyaManis1",
+                "location": "Riau",
+                "description": "I love moom",
+                "url": "http:\/\/t.co\/3S5Odner",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/3S5Odner",
+                                "expanded_url": "http:\/\/twitter.com",
+                                "display_url": "twitter.com",
+                                "indices": [
+                                    0,
+                                    20
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9,
+                "friends_count": 139,
+                "listed_count": 0,
+                "created_at": "2013-01-14T07:30:02.000Z",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 58944,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3112580661\/91b156083d1f721db6512642c1cb1035_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3112580661\/91b156083d1f721db6512642c1cb1035_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:03:00.000Z",
+            "id": "765036042462396416",
+            "id_str": "765036042462396416",
+            "text": "Ketua DPRD Pelalawan Ada Dalam Bus Calon Haji yang Kecelakaan https:\/\/t.co\/s1gcHtffbI",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/s1gcHtffbI",
+                        "expanded_url": "http:\/\/ift.tt\/2aTwcOT",
+                        "display_url": "ift.tt\/2aTwcOT",
+                        "indices": [
+                            62,
+                            85
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/ifttt.com\" rel=\"nofollow\">IFTTT<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1347533514,
+                "id_str": "1347533514",
+                "name": "NEWSindexing",
+                "screen_name": "NewsIndexing",
+                "location": "Jakarta Capital Region",
+                "description": "Tweet berita Indonesia",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 170,
+                "friends_count": 62,
+                "listed_count": 49,
+                "created_at": "2013-04-12T19:19:54.000Z",
+                "favourites_count": 0,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 456674,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/658603087808954368\/j1XfNums_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/658603087808954368\/j1XfNums_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1347533514\/1445858330",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:02:55.000Z",
+            "id": "765036019712270336",
+            "id_str": "765036019712270336",
+            "text": "Kecelakaan BMW Warnai Kepadatan Lalu Lintas Jakarta Pagi Ini https:\/\/t.co\/c7xz5MejYR",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/c7xz5MejYR",
+                        "expanded_url": "http:\/\/tinyurl.com\/hup748g",
+                        "display_url": "tinyurl.com\/hup748g",
+                        "indices": [
+                            61,
+                            84
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1095874573,
+                "id_str": "1095874573",
+                "name": "Selena Cantiq",
+                "screen_name": "SelenaCantiq",
+                "location": "Indonesia | Jakarta",
+                "description": "Follow Me,,",
+                "url": "http:\/\/t.co\/v4zcuWYf",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/v4zcuWYf",
+                                "expanded_url": "http:\/\/twitter.com",
+                                "display_url": "twitter.com",
+                                "indices": [
+                                    0,
+                                    20
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 89,
+                "friends_count": 119,
+                "listed_count": 1,
+                "created_at": "2013-01-16T17:41:54.000Z",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 61343,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/3117343104\/c817c2ebbe0e4dff38e64f0804848562_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/3117343104\/c817c2ebbe0e4dff38e64f0804848562_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:02:13.000Z",
+            "id": "765035842385551360",
+            "id_str": "765035842385551360",
+            "text": "Bus Pengangkut Pemain Persib Kecelakaan di Bekasi https:\/\/t.co\/ZXps2cxVUI via @jariberita #jariberita",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "jariberita",
+                        "indices": [
+                            90,
+                            101
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "jariberita",
+                        "name": "Jariberita.com",
+                        "id": "761974019268616193",
+                        "id_str": "761974019268616193",
+                        "indices": [
+                            78,
+                            89
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/ZXps2cxVUI",
+                        "expanded_url": "http:\/\/www.jariberita.com\/3664\/bus-pengangkut-pemain-persib-kecelakaan-di-bekasi.html",
+                        "display_url": "jariberita.com\/3664\/bus-penga\u2026",
+                        "indices": [
+                            50,
+                            73
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\">Mobile Web<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "761974019268616193",
+                "id_str": "761974019268616193",
+                "name": "Jariberita.com",
+                "screen_name": "jariberita",
+                "location": "Indonesia",
+                "description": "Berita Online Terkini",
+                "url": "https:\/\/t.co\/d4FvGcDQxp",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/d4FvGcDQxp",
+                                "expanded_url": "http:\/\/www.jariberita.com",
+                                "display_url": "jariberita.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 101,
+                "friends_count": 50,
+                "listed_count": 0,
+                "created_at": "2016-08-06T17:15:37.000Z",
+                "favourites_count": 4,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 111,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/761975319616106496\/4g3iL5Vu_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/761975319616106496\/4g3iL5Vu_normal.jpg",
+                "profile_link_color": "2B7BB9",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:02:07.000Z",
+            "id": "765035820520656897",
+            "id_str": "765035820520656897",
+            "text": "Apesnya Kiper Arsenal di Laga Perdana EPL Musim Ini: Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/gViTRBIf5H",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/gViTRBIf5H",
+                        "expanded_url": "http:\/\/migre.me\/uF1wi",
+                        "display_url": "migre.me\/uF1wi",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2541759565",
+                "id_str": "2541759565",
+                "name": "kick andi",
+                "screen_name": "game_mbel",
+                "location": "semarang",
+                "description": "Tweets berita terbaru",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 155,
+                "friends_count": 173,
+                "listed_count": 14,
+                "created_at": "2014-06-02T15:58:38.000Z",
+                "favourites_count": 0,
+                "utc_offset": 25200,
+                "time_zone": "Bangkok",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 287842,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme5\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme5\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/481787476051120128\/UuSCAnSu_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/481787476051120128\/UuSCAnSu_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2541759565\/1403829608",
+                "profile_link_color": "595E61",
+                "profile_sidebar_border_color": "829D5E",
+                "profile_sidebar_fill_color": "99CC33",
+                "profile_text_color": "3E4415",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:01:59.000Z",
+            "id": "765035783463981056",
+            "id_str": "765035783463981056",
+            "text": "Apesnya Kiper Arsenal di Laga Perdana EPL Musim Ini: Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/VzlLM6Xbwi",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/VzlLM6Xbwi",
+                        "expanded_url": "http:\/\/bit.ly\/2b9Z1rv",
+                        "display_url": "bit.ly\/2b9Z1rv",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2261039966",
+                "id_str": "2261039966",
+                "name": "Aksel Yudha Nugraha",
+                "screen_name": "aksel_YN",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 163,
+                "friends_count": 24,
+                "listed_count": 30,
+                "created_at": "2013-12-25T04:52:25.000Z",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 204383,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/479832516761632768\/G89hcBJC_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/479832516761632768\/G89hcBJC_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2261039966\/1403236038",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:01:12.000Z",
+            "id": "765035589934551040",
+            "id_str": "765035589934551040",
+            "text": "Ketua DPRD Pelalawan Ada Dalam Bus Calon Haji yang Kecelakaan https:\/\/t.co\/JBhz9tLVuO",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/JBhz9tLVuO",
+                        "expanded_url": "http:\/\/dlvr.it\/M2MxZF",
+                        "display_url": "dlvr.it\/M2MxZF",
+                        "indices": [
+                            62,
+                            85
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/dlvr.it\" rel=\"nofollow\">dlvr.it<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1720803632,
+                "id_str": "1720803632",
+                "name": "EMan Fadhli",
+                "screen_name": "fadliX_",
+                "location": "Masih nyari tempat",
+                "description": "Bercita-cita menjadi orang yang pas-pasan\r\n(pas butuh semuanya ada) hehehe..",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 447,
+                "friends_count": 471,
+                "listed_count": 2,
+                "created_at": "2013-09-02T01:32:41.000Z",
+                "favourites_count": 11,
+                "utc_offset": 28800,
+                "time_zone": "Beijing",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 73018,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "141417",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000103601512\/776987c6983587025592a888568370ec.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000103601512\/776987c6983587025592a888568370ec.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000608848379\/32b04efb993fbc50a7f901cab6a1c1a7_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000608848379\/32b04efb993fbc50a7f901cab6a1c1a7_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1720803632\/1380070126",
+                "profile_link_color": "C74DC7",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:01:10.000Z",
+            "id": "765035581453643776",
+            "id_str": "765035581453643776",
+            "text": "Ketua DPRD Pelalawan Ada Dalam Bus Calon Haji yang Kecelakaan https:\/\/t.co\/IQeHXMPbpE",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/IQeHXMPbpE",
+                        "expanded_url": "http:\/\/dlvr.it\/M2MxTY",
+                        "display_url": "dlvr.it\/M2MxTY",
+                        "indices": [
+                            62,
+                            85
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/dlvr.it\" rel=\"nofollow\">dlvr.it<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 540719522,
+                "id_str": "540719522",
+                "name": "R.Narendro Wicaksono",
+                "screen_name": "Mynameddo",
+                "location": "Bogor",
+                "description": "Invite 74D9A15F . Drummeration . #GrdIXGeneration",
+                "url": "http:\/\/t.co\/EAj6CfpzDP",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/EAj6CfpzDP",
+                                "expanded_url": "http:\/\/Eddonarendro.blogspot.com",
+                                "display_url": "Eddonarendro.blogspot.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 203,
+                "friends_count": 392,
+                "listed_count": 3,
+                "created_at": "2012-03-30T10:52:11.000Z",
+                "favourites_count": 115,
+                "utc_offset": 25200,
+                "time_zone": "Jakarta",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 159127,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000041415189\/aa0a8f45d5ffc60d85a3f9b8d096ba1f.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000041415189\/aa0a8f45d5ffc60d85a3f9b8d096ba1f.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/429663895360638976\/DexjlXKf_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/429663895360638976\/DexjlXKf_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/540719522\/1375342186",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:01:10.000Z",
+            "id": "765035581088817152",
+            "id_str": "765035581088817152",
+            "text": "Ketua DPRD Pelalawan Ada Dalam Bus Calon Haji yang Kecelakaan https:\/\/t.co\/ri1ryaoagK",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/ri1ryaoagK",
+                        "expanded_url": "http:\/\/dlvr.it\/M2MxSN",
+                        "display_url": "dlvr.it\/M2MxSN",
+                        "indices": [
+                            62,
+                            85
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/dlvr.it\" rel=\"nofollow\">dlvr.it<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1240313402,
+                "id_str": "1240313402",
+                "name": "Kenshi Ara",
+                "screen_name": "FA_SE7EN",
+                "location": "Santiago Bernabeu,Madrid",
+                "description": "Always Support @CindyGulla0 As Long As I Can.. Semangat!!!!! \u2022 #ShorinjiKempo #MartialArts \u2022 Hala Madrid!! Hala Cigul!!",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 663,
+                "friends_count": 17,
+                "listed_count": 4,
+                "created_at": "2013-03-04T02:26:35.000Z",
+                "favourites_count": 331,
+                "utc_offset": 25200,
+                "time_zone": "Jakarta",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 93688,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/867902422\/3a195ece5595c04a30a76fc45175ddcf.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/867902422\/3a195ece5595c04a30a76fc45175ddcf.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/437599794693799936\/-XOI81dr_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/437599794693799936\/-XOI81dr_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1240313402\/1392994917",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:01:10.000Z",
+            "id": "765035581046874112",
+            "id_str": "765035581046874112",
+            "text": "Kecelakaan di Jl.MT Haryono simpang banggeris,depan kantor LLAJ https:\/\/t.co\/gfaDGL9Khj",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": "765035575984259073",
+                        "id_str": "765035575984259073",
+                        "indices": [
+                            64,
+                            87
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Cp3zzZMUAAEMu7r.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cp3zzZMUAAEMu7r.jpg",
+                        "url": "https:\/\/t.co\/gfaDGL9Khj",
+                        "display_url": "pic.twitter.com\/gfaDGL9Khj",
+                        "expanded_url": "http:\/\/twitter.com\/BusamSamarinda\/status\/765035581046874112\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 480,
+                                "h": 238,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 480,
+                                "h": 238,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 480,
+                                "h": 238,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": "765035575984259073",
+                        "id_str": "765035575984259073",
+                        "indices": [
+                            64,
+                            87
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Cp3zzZMUAAEMu7r.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cp3zzZMUAAEMu7r.jpg",
+                        "url": "https:\/\/t.co\/gfaDGL9Khj",
+                        "display_url": "pic.twitter.com\/gfaDGL9Khj",
+                        "expanded_url": "http:\/\/twitter.com\/BusamSamarinda\/status\/765035581046874112\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 480,
+                                "h": 238,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 480,
+                                "h": 238,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 480,
+                                "h": 238,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\">Twitter for Android<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2951558544",
+                "id_str": "2951558544",
+                "name": "Busam Samarinda",
+                "screen_name": "BusamSamarinda",
+                "location": "Samarinda",
+                "description": "| Media Informasi Bubuhan Urang Samarinda |",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 704,
+                "friends_count": 24,
+                "listed_count": 1,
+                "created_at": "2014-12-30T06:55:20.000Z",
+                "favourites_count": 23,
+                "utc_offset": 21600,
+                "time_zone": "Urumqi",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 500,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/723055093419892736\/BGB1wecR_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/723055093419892736\/BGB1wecR_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2951558544\/1468765932",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:00:34.000Z",
+            "id": "765035429057875968",
+            "id_str": "765035429057875968",
+            "text": "Gunakan jalur sesuai ketentuan, jangan melawan arus krn rawan kecelakaan. Kesadaran kita keselamatan semua. https:\/\/t.co\/PGR430kvyg",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": "548261117642821632",
+                        "id_str": "548261117642821632",
+                        "indices": [
+                            108,
+                            131
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/B5vQlOlCUAAlLIe.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/B5vQlOlCUAAlLIe.jpg",
+                        "url": "https:\/\/t.co\/PGR430kvyg",
+                        "display_url": "pic.twitter.com\/PGR430kvyg",
+                        "expanded_url": "http:\/\/twitter.com\/TMCPoldaMetro\/status\/548261130997493760\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1024,
+                                "h": 765,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 254,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 448,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": "548261130997493760",
+                        "source_status_id_str": "548261130997493760",
+                        "source_user_id": 76647722,
+                        "source_user_id_str": "76647722"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": "548261117642821632",
+                        "id_str": "548261117642821632",
+                        "indices": [
+                            108,
+                            131
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/B5vQlOlCUAAlLIe.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/B5vQlOlCUAAlLIe.jpg",
+                        "url": "https:\/\/t.co\/PGR430kvyg",
+                        "display_url": "pic.twitter.com\/PGR430kvyg",
+                        "expanded_url": "http:\/\/twitter.com\/TMCPoldaMetro\/status\/548261130997493760\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1024,
+                                "h": 765,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 254,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 448,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": "548261130997493760",
+                        "source_status_id_str": "548261130997493760",
+                        "source_user_id": 76647722,
+                        "source_user_id_str": "76647722"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 76647722,
+                "id_str": "76647722",
+                "name": "TMC Polda Metro Jaya",
+                "screen_name": "TMCPoldaMetro",
+                "location": "DKI Jakarta, Indonesia",
+                "description": "Traffic Management Center Jakarta Metropolitan Police Telp: 021-52960770 Fax: 021-5275090 SMS: 1717",
+                "url": "http:\/\/t.co\/5x8wgtzoUo",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/5x8wgtzoUo",
+                                "expanded_url": "http:\/\/notes.tmcpoldametro.net",
+                                "display_url": "notes.tmcpoldametro.net",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5966979,
+                "friends_count": 0,
+                "listed_count": 9923,
+                "created_at": "2009-09-23T13:50:11.000Z",
+                "favourites_count": 87,
+                "utc_offset": 25200,
+                "time_zone": "Jakarta",
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 455824,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/40177778\/lant_tmc500.png",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/40177778\/lant_tmc500.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/704795297801641984\/yA4ONVv8_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/704795297801641984\/yA4ONVv8_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/76647722\/1398410897",
+                "profile_link_color": "141ED1",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 4,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:00:31.000Z",
+            "id": "765035415061401601",
+            "id_str": "765035415061401601",
+            "text": "Apesnya Kiper Arsenal di Laga Perdana EPL Musim Ini: Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/qwY9SlXQNw",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/qwY9SlXQNw",
+                        "expanded_url": "http:\/\/bit.ly\/2b9Z1rv",
+                        "display_url": "bit.ly\/2b9Z1rv",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 109022466,
+                "id_str": "109022466",
+                "name": "xiao luhan",
+                "screen_name": "xxolh",
+                "location": "seoul",
+                "description": "hello roleplayer's world",
+                "url": "http:\/\/t.co\/w0GzvH4UxF",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/w0GzvH4UxF",
+                                "expanded_url": "http:\/\/exo-m.smtown.com",
+                                "display_url": "exo-m.smtown.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4091,
+                "friends_count": 29,
+                "listed_count": 95,
+                "created_at": "2010-01-27T18:42:31.000Z",
+                "favourites_count": 150,
+                "utc_offset": 36000,
+                "time_zone": "Melbourne",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1203365,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000390339590\/412bdaed542a3bc8b3e3cba3afabe9ce_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000390339590\/412bdaed542a3bc8b3e3cba3afabe9ce_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/109022466\/1377954955",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:00:29.000Z",
+            "id": "765035407054516224",
+            "id_str": "765035407054516224",
+            "text": "Apesnya Kiper Arsenal di Laga Perdana EPL Musim Ini: Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/VlVy1POMw3",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/VlVy1POMw3",
+                        "expanded_url": "http:\/\/bit.ly\/2b9YOoj",
+                        "display_url": "bit.ly\/2b9YOoj",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 357408757,
+                "id_str": "357408757",
+                "name": "soo-young",
+                "screen_name": "ggswy",
+                "location": "",
+                "description": "roleplayer of choi sooyoung",
+                "url": "http:\/\/t.co\/had2MZ6Dzu",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/had2MZ6Dzu",
+                                "expanded_url": "http:\/\/girlsgeneration.smtown.com",
+                                "display_url": "girlsgeneration.smtown.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2070,
+                "friends_count": 889,
+                "listed_count": 84,
+                "created_at": "2011-08-18T09:43:17.000Z",
+                "favourites_count": 213,
+                "utc_offset": 32400,
+                "time_zone": "Seoul",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 899343,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/456247900293431296\/3KZfUT08.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/456247900293431296\/3KZfUT08.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/456250029519302658\/aqcwN_51_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/456250029519302658\/aqcwN_51_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/357408757\/1397613104",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:00:29.000Z",
+            "id": "765035406073225221",
+            "id_str": "765035406073225221",
+            "text": "Kecelakaan Kecelakaan Yang Tak Terduga Saat Syuting: https:\/\/t.co\/lkJm8ODs7r via @YouTube",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "YouTube",
+                        "name": "YouTube",
+                        "id": 10228272,
+                        "id_str": "10228272",
+                        "indices": [
+                            81,
+                            89
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/lkJm8ODs7r",
+                        "expanded_url": "http:\/\/youtu.be\/Gh4REKX_234?a",
+                        "display_url": "youtu.be\/Gh4REKX_234?a",
+                        "indices": [
+                            53,
+                            76
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/www.google.com\/\" rel=\"nofollow\">Google<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2205330666",
+                "id_str": "2205330666",
+                "name": "Andri Aminudin",
+                "screen_name": "andri_aminudin",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 13,
+                "friends_count": 73,
+                "listed_count": 0,
+                "created_at": "2013-11-20T17:53:51.000Z",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 72,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/499457752050057217\/rb_a2rS9_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/499457752050057217\/rb_a2rS9_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2205330666\/1407915107",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:00:19.000Z",
+            "id": "765035367456124929",
+            "id_str": "765035367456124929",
+            "text": "Ketua DPRD Pelalawan Ada Dalam Bus Calon Haji yang Kecelakaan https:\/\/t.co\/JLuEnWadek https:\/\/t.co\/wol49e7gNp",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/JLuEnWadek",
+                        "expanded_url": "http:\/\/okz.me\/WJsl",
+                        "display_url": "okz.me\/WJsl",
+                        "indices": [
+                            62,
+                            85
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": "765035362427121665",
+                        "id_str": "765035362427121665",
+                        "indices": [
+                            86,
+                            109
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Cp3zm9oUsAEs-K0.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cp3zm9oUsAEs-K0.jpg",
+                        "url": "https:\/\/t.co\/wol49e7gNp",
+                        "display_url": "pic.twitter.com\/wol49e7gNp",
+                        "expanded_url": "http:\/\/twitter.com\/okezonenews\/status\/765035367456124929\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 800,
+                                "h": 419,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 419,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 356,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": "765035362427121665",
+                        "id_str": "765035362427121665",
+                        "indices": [
+                            86,
+                            109
+                        ],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Cp3zm9oUsAEs-K0.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cp3zm9oUsAEs-K0.jpg",
+                        "url": "https:\/\/t.co\/wol49e7gNp",
+                        "display_url": "pic.twitter.com\/wol49e7gNp",
+                        "expanded_url": "http:\/\/twitter.com\/okezonenews\/status\/765035367456124929\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 800,
+                                "h": 419,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 800,
+                                "h": 419,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 356,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/www.okezone.com\" rel=\"nofollow\">OkezoneMobile<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 47274731,
+                "id_str": "47274731",
+                "name": "Okezone",
+                "screen_name": "okezonenews",
+                "location": "Jakarta",
+                "description": "Akun Twitter Resmi https:\/\/t.co\/sbHLB5D6eY, Indonesian News & Entertainment Online. Available on App Store, Play Store, and BBM.",
+                "url": "http:\/\/t.co\/sbHLB5D6eY",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/sbHLB5D6eY",
+                                "expanded_url": "http:\/\/www.okezone.com",
+                                "display_url": "okezone.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/sbHLB5D6eY",
+                                "expanded_url": "http:\/\/www.okezone.com",
+                                "display_url": "okezone.com",
+                                "indices": [
+                                    19,
+                                    42
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 2112518,
+                "friends_count": 180,
+                "listed_count": 1964,
+                "created_at": "2009-06-15T06:14:53.000Z",
+                "favourites_count": 2420,
+                "utc_offset": 25200,
+                "time_zone": "Jakarta",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 968227,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/435662281989312512\/NgrL2AO2.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/435662281989312512\/NgrL2AO2.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/755338029816881152\/EYL7v8YN_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/755338029816881152\/EYL7v8YN_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/47274731\/1468921582",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:00:07.000Z",
+            "id": "765035314469449728",
+            "id_str": "765035314469449728",
+            "text": "Idol-idol Ini Mengalami Kecelakaan Jatuh dari Panggung Paling Parah https:\/\/t.co\/m55B4GWGPt",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/m55B4GWGPt",
+                        "expanded_url": "http:\/\/inikpop.com\/idol-idol-mengalami-kecelakaan-jatuh-panggung-paling-parah\/",
+                        "display_url": "inikpop.com\/idol-idol-meng\u2026",
+                        "indices": [
+                            68,
+                            91
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\">TweetDeck<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "4275891440",
+                "id_str": "4275891440",
+                "name": "inikpop",
+                "screen_name": "ini_kpop",
+                "location": "Seoul bagian Jakarta Pusat",
+                "description": "Info K-pop terlengkap. News-nya ada, artikelnya ada, video-nya juga ada https:\/\/t.co\/eqlqUODYHJ untuk kerja sama: inikpop@gmail.com",
+                "url": "https:\/\/t.co\/2tGZQvntl5",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/2tGZQvntl5",
+                                "expanded_url": "http:\/\/inikpop.com",
+                                "display_url": "inikpop.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/eqlqUODYHJ",
+                                "expanded_url": "http:\/\/youtube.com\/inikpopdotcom",
+                                "display_url": "youtube.com\/inikpopdotcom",
+                                "indices": [
+                                    72,
+                                    95
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 6488,
+                "friends_count": 130,
+                "listed_count": 9,
+                "created_at": "2015-11-18T06:24:00.000Z",
+                "favourites_count": 0,
+                "utc_offset": 25200,
+                "time_zone": "Jakarta",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6972,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/675271581489213440\/zIxggDac_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/675271581489213440\/zIxggDac_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/4275891440\/1461834711",
+                "profile_link_color": "FFCC4D",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T04:00:06.000Z",
+            "id": "765035310476648448",
+            "id_str": "765035310476648448",
+            "text": "#Berita: Ketua DPRD Pelalawan Ada Dalam Bus Calon Haji yang Kecelakaan https:\/\/t.co\/tKgJrkimVf",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Berita",
+                        "indices": [
+                            0,
+                            7
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/tKgJrkimVf",
+                        "expanded_url": "http:\/\/ift.tt\/2aTwcOT",
+                        "display_url": "ift.tt\/2aTwcOT",
+                        "indices": [
+                            71,
+                            94
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/ifttt.com\" rel=\"nofollow\">IFTTT<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2781897421",
+                "id_str": "2781897421",
+                "name": "Beritik",
+                "screen_name": "beritik",
+                "location": "Indonesia",
+                "description": "Tweet berita harian Indonesia setiap detik \u00b7 Follow satu, dapat semua berita \u00b7 Follow @travelogers untuk info travel.",
+                "url": "https:\/\/t.co\/o5mNKMjIwG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/o5mNKMjIwG",
+                                "expanded_url": "https:\/\/www.facebook.com\/pages\/Beritik\/1035314583150218",
+                                "display_url": "facebook.com\/pages\/Beritik\/\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2244,
+                "friends_count": 14,
+                "listed_count": 151,
+                "created_at": "2014-08-31T08:08:26.000Z",
+                "favourites_count": 18,
+                "utc_offset": 25200,
+                "time_zone": "Jakarta",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1635869,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F8F8F8",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/507518558767550464\/o69rkh58.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/507518558767550464\/o69rkh58.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/592940866026622976\/fBoouJgF_normal.png",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/592940866026622976\/fBoouJgF_normal.png",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2781897421\/1430203745",
+                "profile_link_color": "33691E",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:59:52.000Z",
+            "id": "765035251345215488",
+            "id_str": "765035251345215488",
+            "text": "Apesnya Kiper Arsenal di Laga Perdana EPL Musim Ini: Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/ZEUiuR51V9",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/ZEUiuR51V9",
+                        "expanded_url": "http:\/\/bit.ly\/2bwt7KL",
+                        "display_url": "bit.ly\/2bwt7KL",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2421641485",
+                "id_str": "2421641485",
+                "name": "Yunus Saleh",
+                "screen_name": "Unews89",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 549,
+                "friends_count": 199,
+                "listed_count": 16,
+                "created_at": "2014-04-01T06:12:56.000Z",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 225224,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/450882886078451712\/JWr-1S_L_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/450882886078451712\/JWr-1S_L_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2421641485\/1396333407",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:59:49.000Z",
+            "id": "765035240209256448",
+            "id_str": "765035240209256448",
+            "text": "Apesnya Kiper Arsenal di Laga Perdana EPL Musim Ini: Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/XGp0XHsJhO",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/XGp0XHsJhO",
+                        "expanded_url": "http:\/\/bit.ly\/2bwt7KL",
+                        "display_url": "bit.ly\/2bwt7KL",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2420909678",
+                "id_str": "2420909678",
+                "name": "Eldutaufiqy",
+                "screen_name": "dutanerazzuri",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 486,
+                "friends_count": 318,
+                "listed_count": 23,
+                "created_at": "2014-03-31T18:21:45.000Z",
+                "favourites_count": 0,
+                "utc_offset": 25200,
+                "time_zone": "Bangkok",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 231509,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/450699892038438912\/h7jogCnJ_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/450699892038438912\/h7jogCnJ_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2420909678\/1396290361",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:59:47.000Z",
+            "id": "765035230461702144",
+            "id_str": "765035230461702144",
+            "text": "Apesnya Kiper Arsenal di Laga Perdana EPL Musim Ini: Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/2IboDMFvU1",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/2IboDMFvU1",
+                        "expanded_url": "http:\/\/bit.ly\/2bwt7KL",
+                        "display_url": "bit.ly\/2bwt7KL",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2420876244",
+                "id_str": "2420876244",
+                "name": "linteristyns",
+                "screen_name": "linteristyns",
+                "location": "",
+                "description": "Developer || Hard Worker || Reader",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 469,
+                "friends_count": 287,
+                "listed_count": 15,
+                "created_at": "2014-03-31T17:52:00.000Z",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 225462,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/450692511749529600\/SmOlq3o0_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/450692511749529600\/SmOlq3o0_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2420876244\/1396288504",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:59:04.000Z",
+            "id": "765035051889209344",
+            "id_str": "765035051889209344",
+            "text": "BREAKING NEWS: Bus Rombongan JCH Pelalawan Kecelakaan Saat Menuju Pekanbaru - Tribun Pekanbaru https:\/\/t.co\/U3fjzIkUiC #Pekanbaru #Riau",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Pekanbaru",
+                        "indices": [
+                            119,
+                            129
+                        ]
+                    },
+                    {
+                        "text": "Riau",
+                        "indices": [
+                            130,
+                            135
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/U3fjzIkUiC",
+                        "expanded_url": "http:\/\/bit.ly\/2biCUzA",
+                        "display_url": "bit.ly\/2biCUzA",
+                        "indices": [
+                            95,
+                            118
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2306117310",
+                "id_str": "2306117310",
+                "name": "Pekanbaru Nobar",
+                "screen_name": "PekanbaruNobar",
+                "location": "Riau",
+                "description": "Part of @Lokasi_Nobar | Pekanbaru | Supported by @MDG_Sport | CP 08985216530 | PIN 7CB7659C",
+                "url": "http:\/\/t.co\/75Tmj6zSTy",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/75Tmj6zSTy",
+                                "expanded_url": "http:\/\/mdgsport.com",
+                                "display_url": "mdgsport.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1861,
+                "friends_count": 26,
+                "listed_count": 2,
+                "created_at": "2014-01-23T07:17:21.000Z",
+                "favourites_count": 83,
+                "utc_offset": 25200,
+                "time_zone": "Jakarta",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 9954,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme14\/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/514269240958783488\/6dPT-rcl_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/514269240958783488\/6dPT-rcl_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2306117310\/1411446380",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:59:02.000Z",
+            "id": "765035043563507712",
+            "id_str": "765035043563507712",
+            "text": "Apesnya Kiper Arsenal di Laga Perdana EPL Musim Ini: Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/939mJQAtvJ",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/939mJQAtvJ",
+                        "expanded_url": "http:\/\/bit.ly\/2b9Z1rv",
+                        "display_url": "bit.ly\/2b9Z1rv",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2352895471",
+                "id_str": "2352895471",
+                "name": "_____",
+                "screen_name": "muh_tri_sahdan",
+                "location": "error 404: Location not found",
+                "description": ".",
+                "url": "http:\/\/t.co\/lo70IMa7Pn",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/lo70IMa7Pn",
+                                "expanded_url": "http:\/\/the-ballaz.blogspot.com",
+                                "display_url": "the-ballaz.blogspot.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 141,
+                "friends_count": 46,
+                "listed_count": 21,
+                "created_at": "2014-02-20T07:41:42.000Z",
+                "favourites_count": 11,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 499175,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/440788264765501440\/fl_EmAEV.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/440788264765501440\/fl_EmAEV.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/541500123683893248\/rtI_QdCH_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/541500123683893248\/rtI_QdCH_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2352895471\/1417938720",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:58:58.000Z",
+            "id": "765035024806576128",
+            "id_str": "765035024806576128",
+            "text": "Apesnya Kiper Arsenal di Laga Perdana EPL Musim Ini: Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/0v9vbFnfUt",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/0v9vbFnfUt",
+                        "expanded_url": "http:\/\/bit.ly\/2b9YOoj",
+                        "display_url": "bit.ly\/2b9YOoj",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2352895471",
+                "id_str": "2352895471",
+                "name": "_____",
+                "screen_name": "muh_tri_sahdan",
+                "location": "error 404: Location not found",
+                "description": ".",
+                "url": "http:\/\/t.co\/lo70IMa7Pn",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/lo70IMa7Pn",
+                                "expanded_url": "http:\/\/the-ballaz.blogspot.com",
+                                "display_url": "the-ballaz.blogspot.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 141,
+                "friends_count": 46,
+                "listed_count": 21,
+                "created_at": "2014-02-20T07:41:42.000Z",
+                "favourites_count": 11,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 499175,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/440788264765501440\/fl_EmAEV.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/440788264765501440\/fl_EmAEV.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/541500123683893248\/rtI_QdCH_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/541500123683893248\/rtI_QdCH_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2352895471\/1417938720",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:58:53.000Z",
+            "id": "765035005609254912",
+            "id_str": "765035005609254912",
+            "text": "Apesnya Kiper Arsenal di Laga Perdana EPL Musim Ini: Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/7CwerYJNKD",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/7CwerYJNKD",
+                        "expanded_url": "http:\/\/bit.ly\/2b9Z1rv",
+                        "display_url": "bit.ly\/2b9Z1rv",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2369487355",
+                "id_str": "2369487355",
+                "name": "news",
+                "screen_name": "Seputar_Beritaa",
+                "location": "~Raincity\u2602",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 447,
+                "friends_count": 12,
+                "listed_count": 17,
+                "created_at": "2014-03-02T22:47:31.000Z",
+                "favourites_count": 1,
+                "utc_offset": 25200,
+                "time_zone": "Bangkok",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 244641,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/462777109400653824\/i9htn1Rs_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/462777109400653824\/i9htn1Rs_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2369487355\/1394787825",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:58:46.000Z",
+            "id": "765034974483406848",
+            "id_str": "765034974483406848",
+            "text": "Selain kebobolan empat gol, Cech juga mengalami kecelakaan. https:\/\/t.co\/qM22m1OdJl",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/qM22m1OdJl",
+                        "expanded_url": "http:\/\/bit.ly\/2b9Z1rv",
+                        "display_url": "bit.ly\/2b9Z1rv",
+                        "indices": [
+                            60,
+                            83
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2253076646",
+                "id_str": "2253076646",
+                "name": "Terras Bekasi",
+                "screen_name": "PorosBekasi",
+                "location": "Bekasi",
+                "description": "Halo.. Mulai 28\/4\/15 kami berubah nama dari @KatalogBekasi jadi @TerrasBekasi - kritik dan saran 0896 2338 2338",
+                "url": "http:\/\/t.co\/SZzy0f6pB4",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/SZzy0f6pB4",
+                                "expanded_url": "http:\/\/www.katalogkota.net\/",
+                                "display_url": "katalogkota.net",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 4030,
+                "friends_count": 9,
+                "listed_count": 22,
+                "created_at": "2013-12-19T06:21:21.000Z",
+                "favourites_count": 6,
+                "utc_offset": 25200,
+                "time_zone": "Hanoi",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 291347,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/594031638423568385\/jpLhkY4z_normal.png",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/594031638423568385\/jpLhkY4z_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:58:41.000Z",
+            "id": "765034954853974017",
+            "id_str": "765034954853974017",
+            "text": "#Football: Usai Kemasukan Empat Gol, Petr Cech Kecelakaan: Petr Cech mengalami hari yang sangat buruk, usai m... https:\/\/t.co\/Fkuo8xHMoC",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Football",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/Fkuo8xHMoC",
+                        "expanded_url": "http:\/\/bit.ly\/2bwla8v",
+                        "display_url": "bit.ly\/2bwla8v",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 148333341,
+                "id_str": "148333341",
+                "name": "Topi Jerami",
+                "screen_name": "Topi_Jerami",
+                "location": "Indonesia",
+                "description": "''A True Gentleman Never Leave His Lady #FinoAllaFine #ForzaJuve''",
+                "url": "http:\/\/t.co\/7ST0wDLAYH",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/7ST0wDLAYH",
+                                "expanded_url": "http:\/\/www.suporter.id",
+                                "display_url": "suporter.id",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2506,
+                "friends_count": 189,
+                "listed_count": 202,
+                "created_at": "2010-05-26T12:46:29.000Z",
+                "favourites_count": 156,
+                "utc_offset": 25200,
+                "time_zone": "Jakarta",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 712417,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": true,
+                "is_translation_enabled": false,
+                "profile_background_color": "030303",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000182296925\/QGXx8Qpk.png",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000182296925\/QGXx8Qpk.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/617279617896808449\/t8ASaAy2_normal.png",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/617279617896808449\/t8ASaAy2_normal.png",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/148333341\/1436033828",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "78C0A8",
+                "profile_text_color": "F70505",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:58:39.000Z",
+            "id": "765034944523476992",
+            "id_str": "765034944523476992",
+            "text": "Usai Kemasukan Empat Gol, Petr Cech Kecelakaan https:\/\/t.co\/vqPgqdI89s",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/vqPgqdI89s",
+                        "expanded_url": "http:\/\/bit.ly\/2aT5uX8",
+                        "display_url": "bit.ly\/2aT5uX8",
+                        "indices": [
+                            47,
+                            70
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": "2991875369",
+                "id_str": "2991875369",
+                "name": "412 Sports",
+                "screen_name": "412_Sports",
+                "location": "Indonesia",
+                "description": "Berita seputar Sepak Bola & Bola Basket.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 27,
+                "friends_count": 30,
+                "listed_count": 15,
+                "created_at": "2015-01-22T11:53:06.000Z",
+                "favourites_count": 0,
+                "utc_offset": 25200,
+                "time_zone": "Jakarta",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 85483,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/558242960303591424\/y5b57tjV_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/558242960303591424\/y5b57tjV_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2991875369\/1421931754",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:58:36.000Z",
+            "id": "765034932125040644",
+            "id_str": "765034932125040644",
+            "text": "Usai Kemasukan Empat Gol, Petr Cech Kecelakaan: Petr Cech mengalami hari yang sangat buruk, usai melihat gawa...... https:\/\/t.co\/KOnRzWtVuW",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/KOnRzWtVuW",
+                        "expanded_url": "http:\/\/fb.me\/KeCk1DSh",
+                        "display_url": "fb.me\/KeCk1DSh",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/www.facebook.com\/twitter\" rel=\"nofollow\">Facebook<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1399128192,
+                "id_str": "1399128192",
+                "name": "Arenanews",
+                "screen_name": "arenanews1",
+                "location": "Indonesia",
+                "description": "News Arena Olahraga, bola serta Livescore. \r\nUntuk Iklan hubungi: arenanews1@gmail.com, dengan subjek: Iklan Arena",
+                "url": "https:\/\/t.co\/2VCFXgU63k",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/2VCFXgU63k",
+                                "expanded_url": "http:\/\/arenanews.redirectme.net\/",
+                                "display_url": "arenanews.redirectme.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 520,
+                "friends_count": 955,
+                "listed_count": 27,
+                "created_at": "2013-05-03T08:08:52.000Z",
+                "favourites_count": 5,
+                "utc_offset": 25200,
+                "time_zone": "Bangkok",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 725851,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "E4EB1D",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/588566684815888384\/spAw6o4M.jpg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/588566684815888384\/spAw6o4M.jpg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/758519237958782984\/lyoIIABR_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/758519237958782984\/lyoIIABR_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1399128192\/1471240114",
+                "profile_link_color": "DE9031",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": true,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:58:34.000Z",
+            "id": "765034926626316288",
+            "id_str": "765034926626316288",
+            "text": "Usai Kemasukan Empat Gol, Petr Cech Kecelakaan: Petr Cech mengalami hari yang sangat buruk, usai melihat gawa... https:\/\/t.co\/0FOgyaOfOB",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/0FOgyaOfOB",
+                        "expanded_url": "http:\/\/bit.ly\/2bwla8v",
+                        "display_url": "bit.ly\/2bwla8v",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1722051036,
+                "id_str": "1722051036",
+                "name": "Pulsa ELLECTRIC",
+                "screen_name": "PulsaELLECTRIC",
+                "location": "Indonesia",
+                "description": "Jual Pulsa Online Electric 24jam | Payment Via M-Banking\/I-Banking BCA | Proses Cepat, Mudah dan Aman | Cek Favorit | #TrustMeItsWork",
+                "url": "http:\/\/t.co\/zTl85hPk7A",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http:\/\/t.co\/zTl85hPk7A",
+                                "expanded_url": "http:\/\/www.pulsagram.com\/?id=CN168344",
+                                "display_url": "pulsagram.com\/?id=CN168344",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 339,
+                "friends_count": 305,
+                "listed_count": 12,
+                "created_at": "2013-09-02T11:39:14.000Z",
+                "favourites_count": 19,
+                "utc_offset": 25200,
+                "time_zone": "Bangkok",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 72421,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EBEBEB",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/378800000066638883\/9f71feb56c3774a36f769e5afdc6bbd8.jpeg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/378800000066638883\/9f71feb56c3774a36f769e5afdc6bbd8.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000407502561\/6fb8dd8f91dcfaab0a8eab249e6d6f53_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000407502561\/6fb8dd8f91dcfaab0a8eab249e6d6f53_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1722051036\/1378122164",
+                "profile_link_color": "990000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "in"
+        },
+        {
+            "created_at": "2016-08-15T03:58:33.000Z",
+            "id": "765034920259362816",
+            "id_str": "765034920259362816",
+            "text": "Usai Kemasukan Empat Gol, Petr Cech Kecelakaan: Petr Cech mengalami hari yang sangat buruk, usai melihat gawa... https:\/\/t.co\/Qcr4U4tRZu",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https:\/\/t.co\/Qcr4U4tRZu",
+                        "expanded_url": "http:\/\/bit.ly\/2brwAXC",
+                        "display_url": "bit.ly\/2brwAXC",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "in",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\">twitterfeed<\/a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1399128192,
+                "id_str": "1399128192",
+                "name": "Arenanews",
+                "screen_name": "arenanews1",
+                "location": "Indonesia",
+                "description": "News Arena Olahraga, bola serta Livescore. \r\nUntuk Iklan hubungi: arenanews1@gmail.com, dengan subjek: Iklan Arena",
+                "url": "https:\/\/t.co\/2VCFXgU63k",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https:\/\/t.co\/2VCFXgU63k",
+                                "expanded_url": "http:\/\/arenanews.redirectme.net\/",
+                                "display_url": "arenanews.redirectme.net",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 520,
+                "friends_count": 955,
+                "listed_count": 27,
+                "created_at": "2013-05-03T08:08:52.000Z",
+                "favourites_count": 5,
+                "utc_offset": 25200,
+                "time_zone": "Bangkok",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 725851,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "E4EB1D",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/588566684815888384\/spAw6o4M.jpg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/588566684815888384\/spAw6o4M.jpg",
+                "profile_background_tile": true,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/758519237958782984\/lyoIIABR_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/758519237958782984\/lyoIIABR_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1399128192\/1471240114",
+                "profile_link_color": "DE9031",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": true,
+            "lang": "in"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.092,
+        "max_id": "765036224692097024",
+        "max_id_str": "765036224692097024",
+        "query": "kecelakaan+-filter%3Aretweets",
+        "refresh_url": "?since_id=765036224692097024&q=kecelakaan%20-filter%3Aretweets&include_entities=1",
+        "count": 50,
+        "since_id": "600000000000000000",
+        "since_id_str": "600000000000000000"
+    }
+}

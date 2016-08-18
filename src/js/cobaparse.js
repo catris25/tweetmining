@@ -2,7 +2,7 @@ function loadJSON(callback) {
 
     var xobj = new XMLHttpRequest();
         xobj.overrideMimeType("application/json");
-    xobj.open('GET', 'tweets_training_h2.json', true); // Replace 'my_data' with the path to your file
+    xobj.open('GET', 'combinetrain.json', true); // Replace 'my_data' with the path to your file
     xobj.onreadystatechange = function () {
           if (xobj.readyState == 4 && xobj.status == "200") {
             // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
@@ -17,7 +17,7 @@ function loadJSON(callback) {
       // Parse JSON string into object
         var actual_JSON = JSON.parse(response);
         var data = new Array(7);
-        for(var i = 0; i < 73; i++) {
+        for(var i = 0; i < 91; i++) {
             data[i] = new Array(2);
             data[i][0] = actual_JSON.statuses[i].id;
             console.log(typeof data[i][0]);
@@ -25,8 +25,8 @@ function loadJSON(callback) {
             //console.log(typeof data[i][0]);
 
             data[i][1] = actual_JSON.statuses[i].text.replace(/(?:https?|ftp):\/\/[\n\S]+/g, '');
-            data[i][1] = data[i][1].replace(/\B@[a-z0-9_-]+/gi, '');
-            data[i][1] = data[i][1].replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '');
+            data[i][1] = data[i][1].replace(/\B@[a-z0-9_-]+/gi, ' ');
+            data[i][1] = data[i][1].replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, ' ');
             data[i][1] = data[i][1].replace(/\s{2,}/g, ' ');
             data[i][1] = data[i][1].replace(/[^\w.,\s]/g, '');
             data[i][1] = data[i][1].replace(/[0-9]/g, '');
@@ -48,7 +48,7 @@ function loadJSON(callback) {
         // window.open(encodedUri);
 
 
-         download(csvContent, 'datafix_h2.csv', 'text/csv');
+         download(csvContent, 'datafixx.csv', 'text/csv');
 
      });
 }

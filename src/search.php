@@ -2,8 +2,9 @@
 <html>
 <?php
 require_once __DIR__ . '/../vendor/autoload.php'; 
+ini_set('max_execution_time',0);
 use Abraham\TwitterOAuth\TwitterOAuth;
- 
+
 define('CONSUMER_KEY', 'jNC9glDFjyaPgIdC2SvIRRml9');
 define('CONSUMER_SECRET', 'ALzPlL8kdzmLrYQZZNzsckjeZ58oTTSLbi06X27tT8CynjzSOg');
 define('ACCESS_TOKEN', '540627083-CehuUsiaoop4IZ0t1K2SuLrW6QTlLheA7tCnsw6E');
@@ -16,9 +17,14 @@ function search(array $query)
 }
  
 $query = array(
-  "q" => "kecelakaan",
+  //"q" => " kecelakaan -filter:retweets",
+  "q" => " kecelakaan -filter:retweets",
+  "since" => "2016-08-12",
+  "until" => "2016-08-17",
+  // "max_id" => "765097458259091456",
+  //"since_id" => "700000000000000000",
   "count" => 100,
-  "result_type" => "recent"
+  "include_entities" => "false"
 );
 
 
@@ -47,7 +53,7 @@ foreach ($contentsDecoded['statuses'] as $tweet => $value) {
 header('Content-Type: application/json'); 
 $newResults= json_encode($contentsDecoded, JSON_PRETTY_PRINT);
 echo $newResults;
-file_put_contents('tweets_training_h2.json', $newResults);
+file_put_contents('tweets_training_v5.json', $newResults);
 
 ?>
 
