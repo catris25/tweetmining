@@ -13,24 +13,21 @@
 
     //load training set file
     $training = array();
-    if (($handle = fopen("combinetrain2.csv", "r")) !== FALSE) {
+    if (($handle = fopen("combinetrain4.csv", "r")) !== FALSE) {
         while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
             $training[] = $data;
         }
         fclose($handle);
     }
 
-    //fold for testing w/ cross validation
-    $fold = 10;
+    $fold = 10; //fold for testing w/ cross validation
+    $total = count($training); //total data loaded
+    $dperfold = $total / $fold; //total data per fold
+    echo "Total data : " . $total . " with data perfold : " . $dperfold .  "<br>";
 
-    //load testing set file
+
+    //testing array initialization
     $testing = array();
-    // if (($handle = fopen("combinetest.csv", "r")) !== FALSE) {
-    //     while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
-    //         $testing[] = $data;
-    //     }
-    //     fclose($handle);
-    // }
 
 	//stem initialization 
 	$stemmerFactory = new StemmerFactory();
@@ -41,7 +38,7 @@
 	$stopw = $stopwFactory->createStopWordRemover();
 
     //stem and remove stopwords training set 
-	for($x = 0; $x < 300; $x++) {
+	for($x = 0; $x < $total; $x++) {
         $training[$x][1] = preg_replace('/(?:https?|ftp):\/\/[\n\S]+/i', '', $training[$x][1]);
         $training[$x][1] = preg_replace('/\B@[a-z0-9_-]+/i', ' ', $training[$x][1]);
         $training[$x][1] = preg_replace('/[.,\/#!$%\^&\*;:{}=\-_`~()]/i', ' ', $training[$x][1]);
@@ -53,27 +50,19 @@
 		//echo $training[$x][1]."<br>";
 	}
 
-    //initialization for 10 Fold Cross Validation
+    //initialization for 10 Fold Cross Validation, split data to fold
     $counttweet = 0;
     //$countpart = 0;
     for($i = 0; $i < $fold; $i++) {
-        for($j = 0; $j < 30; $j++) {
+        for($j = 0; $j < $dperfold; $j++) {
             $training[$counttweet][3] = $i;
             //echo $training[$counttweet][1] . " is part " . $training[$counttweet][3] . "<br>";
             $counttweet++;
         }
     }
 
-    // //stem and remove stopwords testing set 
-	// for($x = 0; $x < 90; $x++) {
-	// 	$training[$x][1] = $stemmer->stem($training[$x][1]);
-	// 	$training[$x][1] = $stopw->remove($training[$x][1]);
-	// 	//echo $twoDarray[$x][1]."<br>";
-	// }
-    
-    //$correct = 0;
-    //$counter = 0; 
     $accuracy = 0; 
+    //10 Fold Cross Validation begins
     for($i = 0; $i < $fold; $i++) {
 
         $testcount = 0;
@@ -126,13 +115,15 @@
             if ($prediction==$d[2]) {
                 $correct++;
                 //echo $d[1] . " " . $d[2] . "<br>";
+            } else {
+                echo $d[1] . " --- classification is " . $prediction . ". It should be " . $d[2] . "<br>";
             }
             $counter++;
         }
         $temp = 100*$correct / $counter;
         //echo $temp . "<br>";
         $accuracy = $accuracy + $temp;
-        printf("Test " . $i . " : " . $correct . " is correct. The accuracy is " . $temp  . " percent.  <br>");
+        printf("Test " . $i . " : " . $correct . " is correct. The accuracy is " . $temp  . " percent.  <br><br>");
         
     }
 

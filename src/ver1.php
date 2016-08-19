@@ -13,7 +13,7 @@
 
     //load training set file
     $training = array();
-    if (($handle = fopen("combinetrain.csv", "r")) !== FALSE) {
+    if (($handle = fopen("combinetrain4.csv", "r")) !== FALSE) {
         while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
             $training[] = $data;
         }
@@ -38,7 +38,7 @@
 	$stopw = $stopwFactory->createStopWordRemover();
 
     //stem and remove stopwords training set 
-	for($x = 0; $x < 341; $x++) {
+	for($x = 0; $x < 600; $x++) {
         $training[$x][1] = preg_replace('/(?:https?|ftp):\/\/[\n\S]+/i', '', $training[$x][1]);
         $training[$x][1] = preg_replace('/\B@[a-z0-9_-]+/i', ' ', $training[$x][1]);
         $training[$x][1] = preg_replace('/[.,\/#!$%\^&\*;:{}=\-_`~()]/i', ' ', $training[$x][1]);
