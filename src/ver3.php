@@ -126,7 +126,7 @@
 
     foreach ($testing as $d)
     {
-        // predict if it is spam or ham
+        // predict if it is True or False
         $prediction = $cls->classify(
             array('T','F'), // all possible classes
             new TokensDocument(
@@ -139,23 +139,19 @@
             //printf($counter, " ");
             if($d[2] == 'T') {
                 print $d[1] . "<br>";
-                //ada pembatas   jalan solo jogja
-                //0   1          2     3    4     5       6    7     8   9
+
                 //convert string to unigram
                 $bigram = new Bigram();
                 $unibitri = $bigram->tokenize($d[1]);
                 $countword = 0; 
                 $countall = count($unibitri);
-                // $add = "Jl HR Rasuna Said";
-                // $data_arr = geocode($add);
-                // if($data_arr) {
-                //     printf("horee");
-                // }
+
+                //find word 'jl', 'jln', 'jalan', 'tol' to geocode
                 foreach($unibitri as $value) {
                     if($value == 'jalan' || $value == 'jl' || $value == 'jln' || $value == 'tol') {
                         if($countall - $countword == 2) {
                             $lokasi = $unibitri[$countword] . $unibitri[$countword + 1];
-                            printf($lokasi . "<br>");
+                            //printf($lokasi . "<br>");
                             $data_arr = geocode($lokasi);
                             $places[$countplace][3] = 'F';
                             if($data_arr) {
@@ -177,7 +173,7 @@
                             $places[$countplace][3] = 'F';
                             for($i = 0; $i < 2; $i++) {
                                 $lokasi = $lokasi . " " . $unibitri[$i+$countword+1];
-                                printf($lokasi . "<br>");
+                                //printf($lokasi . "<br>");
                                 $data_arr = geocode($lokasi);
                                 if($data_arr) {
                                     //printf("yey");
@@ -199,7 +195,7 @@
                             $places[$countplace][3] = 'F';
                             for($i = 0; $i < 3; $i++) {
                                 $lokasi = $lokasi . " " . $unibitri[$i+$countword+1];
-                                printf($lokasi . "<br>");
+                                //printf($lokasi . "<br>");
                                 $data_arr = geocode($lokasi);
                                 if($data_arr) {
                                     //printf("yey");
@@ -220,19 +216,9 @@
                         
                     }
                     $countword++;
-                    // //search in maps
-                    // $data_arr = geocode($value);
-    
-                    // // if able to geocode the address
-                    // if($data_arr){
-                        
-                    //     $latitude = $data_arr[0];
-                    //     $longitude = $data_arr[1];
-                    //     $formatted_address = $data_arr[2];
-                    //     print "found in : " . $value . "<br>" . $latitude . "<br>" . $longitude . "<br>";
-                    // }
+
                 }
-                print "<br><br>";
+                //print "<br><br>";
             }
             
             $counter ++;
@@ -240,7 +226,8 @@
     }
 
     printf("Accuracy: %.2f\n", 100*$correct / count($testing));
-    $countformap = 0; 
+    printf("<br> Places detected in : " . $countplace . " tweets.");
+    //$countformap = 0; 
 ?>
 
     <div id="gmap_canvas">Loading map...</div>
@@ -248,36 +235,34 @@
 
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyBovhzE3lBt6hB25gzPUdoIctwvQa6j378"></script>    
     <script type="text/javascript">
+        var map = new google.maps.Map(document.getElementById('gmap_canvas'), {
+            zoom: 7,
+            center: new google.maps.LatLng(-7.7091461, 112.176335),
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        });
 
-        
-        function init_map() {
-            var myOptions = {
-                zoom: 7,
-                center: new google.maps.LatLng(-7.7091461, 112.176335),
-                mapTypeId: google.maps.MapTypeId.ROADMAP
-            };
-            //console.log(<?php echo $places[$countformap][2]; ?>);
-            map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);
-            var infowindow = new google.maps.InfoWindow();
-            var x, marker;
-            for (x = 0; x < <?php echo $countplace; ?>; x++) {  
-                marker = new google.maps.Marker({
-                    position: new google.maps.LatLng(<?php echo $places[$countformap][0]; ?>, <?php echo $places[$countformap][1]; ?>),
-                    map: map
-                });
-
-                google.maps.event.addListener(marker, 'click', (function(marker, x) {
-                    return function() {
-                    infowindow.setContent("Asd");
-                    infowindow.open(map, marker);
-                    }
-                })(marker, x));
-                <?php $countformap++; ?>
-            }
-
-        }
-        google.maps.event.addDomListener(window, 'load', init_map);
+        var infowindow = new google.maps.InfoWindow();
+        var marker;
+        var y = 0;
     </script>
+    <?php $countformap = 0; ?>
+    <?php for ($x = 0; $x < $countplace; $x++) {  ?>
+    <script>
+        marker = new google.maps.Marker({
+            position: new google.maps.LatLng(<?php echo $places[$x][0]; ?>, <?php echo $places[$x][1]; ?>),
+            map: map
+        });
+    
+        google.maps.event.addListener(marker, 'click', (function(marker, y) {
+            return function() {
+            infowindow.setContent("<?php echo $places[$x][2]; ?>");
+            infowindow.open(map, marker);
+            }
+        })(marker, y));
+
+        y++;
+    </script>    
+    <?php } ?>
 
 <?php   
     //function to search in maps

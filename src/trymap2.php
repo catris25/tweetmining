@@ -40,7 +40,7 @@
 <?php
 
 
-    $add = "Jalan HR Ras Said";
+    $add = "tol jakarta tangerang tomang";
 
     // get latitude, longitude and formatted address
     $data_arr = geocode($add);
